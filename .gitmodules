@@ -1,0 +1,3 @@
+[submodule "src/CorePackages"]
+	path = src/CorePackages
+	url = https://github.com/nusretyalcn/CleanArchitecture.CorePackages
